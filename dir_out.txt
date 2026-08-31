@@ -1,0 +1,19 @@
+total 3168
+drwxr-xr-x  10 makenziepachick  staff      320 Aug 26 17:56 .
+drwxr-xr-x+ 43 makenziepachick  staff     1376 Aug 26 17:46 ..
+-rw-r--r--@  1 makenziepachick  staff     6148 Aug 24 18:02 .DS_Store
+drwxr-xr-x  13 makenziepachick  staff      416 Aug 24 17:33 .git
+-rw-r--r--@  1 makenziepachick  staff  1604933 Aug 24 18:02 PracComp_Data4BashExample.zip
+-rw-r--r--   1 makenziepachick  staff       20 Aug 19 17:40 README.md
+drwxr-xr-x@ 18 makenziepachick  staff      576 Aug 24 18:07 data
+-rw-r--r--   1 makenziepachick  staff        0 Aug 26 17:56 dir_out.txt
+-rw-r--r--@  1 makenziepachick  staff      206 Aug 19 17:59 github-recovery-codes.txt
+drwxr-xr-x   3 makenziepachick  staff       96 Aug 26 17:37 scripts
+
+
+Above are the directory listings for this folder:
+/Users/makenziepachick/praccomp2026
+
+
+Right now it is:
+Wed Aug 26 17:56:56 EDT 2026
