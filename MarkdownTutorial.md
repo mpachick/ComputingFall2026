@@ -43,3 +43,13 @@ http://brewerlab.net - automatic
 
 ![Background](https://png.pngtree.com/thumb_back/fh260/background/20210727/pngtree-cute-watercolor-fruit-mobile-wallpaper-image_752110.jpg)
 
+## BACKSLASH ESCAPES
+
+\*Literal asterisks\*
+
+## FENCED CODE BLOCKS 
+
+```
+
+echo "Hey Makenzie"
+```
