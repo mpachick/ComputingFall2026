@@ -49,7 +49,21 @@ http://brewerlab.net - automatic
 
 ## FENCED CODE BLOCKS 
 
+- Generic
+
 ```
 
 echo "Hey Makenzie"
+```
+
+- Python example
+
+```python
+print("Hey Makenzie")
+```
+
+- R example
+
+```r
+x <- 4^2
 ```
