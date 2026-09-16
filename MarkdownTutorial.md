@@ -84,5 +84,5 @@ Content column 1 row 2 | Content column 2 row 2
 
 ## EMOJI 
 
-:smiley face:
-:pizza:
+:sun:
+:heart:
