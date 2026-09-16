@@ -32,3 +32,10 @@ Ordered
 3. Item 3 
 	* Item 3a
 	* Item 3b
+
+## LINKS
+
+http://brewerlab.net - automatic
+
+[Brewer Lab](http://brewerlab.net)
+ 
